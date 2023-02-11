@@ -67,8 +67,6 @@ Answer : D
 	The average of the mean across several samples will be 720.
 	The standard deviation of the mean across several samples will be 0.60
 
-Answer : E. The standard deviation of the mean across several samples will be 0.60
-                 Standard error = sigma / (n)^0.5 = standard deviation / (sample size) ^0.5 = 120 / (40000)^0.5 = 
-                 0.6
+Answer : D. The average of the mean across several samples will be 720.
 
 
